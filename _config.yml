@@ -1,0 +1,29 @@
+title: Joachim Poutaraud
+description: Digital portfolio
+theme: just-the-docs
+
+url: https://joachimpoutaraud.github.io
+baseurl: /digital-portfolio
+
+favicon_ico: "/assets/images/favicon.ico"
+logo: "/assets/images/header.png"
+
+aux_links:
+  View it on GitHub: https://github.com/joachimpoutaraud
+
+callouts_level: quiet # or loud
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
