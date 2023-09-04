@@ -10,7 +10,7 @@ Research Assistant, University of Oslo (UiO)
 {: .fs-6 .fw-300 } 
 [View it on GitHub][Joachim Poutaraud repo]{: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
-
+Joachim Poutaraud is currently studying for a master's degree in Music, Communication and Technology (MCT) at the University of Oslo, where he recently wrote his master's thesis under the joint supervision of the Muséum National d'Histoire Naturelle (MNHN) in Paris. He is also a research assistant at the Centre for Interdisciplinary Studies on Rhythm, Time and Movement (RITMO), where he works mainly on the AMBIENT project, which aims to understand how environmental entrainment can influence circadian rhythms. He is particularly interested in soundscape ecology, computational bioacoustics and ecoacoustics. He is an active member of the Nordic Soundscape Research Network ([NSRN](https://www.nina.no/english/Sustainable-society/Nature-and-society/Nordic-Soundscapes-Research-Network-NSRN)) at the Norwegian Institute for Nature Research (NINA), and of the EcoAcoustics Research ([EAR](https://ear.cnrs.fr/)) team at the MNHN.
 
 ---
 
